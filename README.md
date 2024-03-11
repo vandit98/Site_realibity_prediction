@@ -3,3 +3,5 @@ This project addresses the challenge of identifying optimal regions for solariza
 
 
 ### Use case
+
+this can be used for checking the reloability of a site for solar energy
