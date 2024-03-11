@@ -2,7 +2,7 @@
 
 ### Requirements
 
-- Linux, Windows, or macOS with Python ≥ 3.7
+- Linux, Windows, or macOS with Python ≥ 3.7 will be used
 
 ### Libraries and dependencies
 
